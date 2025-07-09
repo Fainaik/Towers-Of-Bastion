@@ -4,7 +4,6 @@ The player controls the camera and places towers to fend off waves of enemies th
 Randomly generated levels add variety. Players must manage resources wisely while monitoring base health and time. 
 Easy to learn but challenging to master, the game turns every attempt into a fresh tactical challenge.
 
-
-
+# Towers-Of-Bastion
 
 ![Image](https://github.com/user-attachments/assets/d2e2ab7b-35cb-4bfa-8f89-e8b5cca0847d)
