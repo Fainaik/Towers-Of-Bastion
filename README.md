@@ -5,8 +5,6 @@ Randomly generated levels add variety. Players must manage resources wisely whil
 Easy to learn but challenging to master, the game turns every attempt into a fresh tactical challenge.
 
 
-![Image](https://github.com/user-attachments/assets/4c95799f-0d1f-4c79-81f8-dc74ec1d1656)
-
 
 
 ![Image](https://github.com/user-attachments/assets/d2e2ab7b-35cb-4bfa-8f89-e8b5cca0847d)
